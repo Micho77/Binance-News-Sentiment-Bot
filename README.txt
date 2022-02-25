@@ -18,3 +18,5 @@ Configurable options
 Works with any number of cryptocurrencies
 
 For a complete step-by-step setup guide please see: https://www.cryptomaton.org/2021/04/17/how-to-code-a-binance-crypto-trading-bot-that-trades-based-on-daily-news-sentiment/
+
+testtesttest
